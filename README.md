@@ -1,22 +1,6 @@
-### Hi there 👋
-
-<!--
-**akashk808443/akashk808443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- ### Hi there 👋 -->
 <!--
-**SumanVastrakar/SumanVastrakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**akashk808443/akashk808443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -30,19 +14,19 @@ Here are some ideas to get you started:
 [![MasterHead](https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif)](SumanVastrakar)
 <div style="display: flex; justify-content: space-around;" >
 <div>
-<h1 align="left">Hi 👋, I'm Suman Vastrakar</h1>
+<h1 align="left">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="left">A passionate Full Stack Web Developer</h3>
 </div>
 <div>
     <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/706457c438d2031942745299f52de650adf45a3b87de1ded443696b405dd881d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966">
 </div>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SumanVastrakar&label=Profile%20views&color=0e75b6&style=flat" alt="SumanVastrakar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkashKumar&label=Profile%20views&color=0e75b6&style=flat" alt="AkashKumar" /> </p>
 - 🌱 I’m currently learning **React, Redux**
 <!-- 
 - 📝 I regularly write articles on [https://medium.com/@jay.sanodiya09](https://medium.com/@jay.sanodiya09) -->
-- 📫 How to reach me **suman1vastrakar@gmail.com**
-<!-- - 📄 **Resume** [Click Me](https://drive.google.com/file/d/1zhiLPHcVnfX9jOY1itGfg7kTix65J0Gs/view?usp=sharing) -->
+- 📫 How to reach me **akashk808443@gmail.com**
+<!-- - 📄 **Resume** [Click Me](https://docs.google.com/document/d/1AaWVxIsUb6yNsJ4jav0FHR_g3_xp1o3r00I1ehVhEww/edit?usp=sharing) -->
 - ⚡ Fun fact **I think I'm Adventurous.**
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -50,11 +34,11 @@ Here are some ideas to get you started:
 <h3 align="left" >Connect with me:</h3>
 <br/>
 <p align="left"; style="display: flex;justify-content: space-evenly;width: 40%;">
-<a href="https://www.linkedin.com/in/suman-vastrakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jay-sanodiya" height="40" width="50" /></a>
-<a href="suman1vastrakar@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/898db73904e0e8df853ab6cb78b06b92295417dfd04cca73c3745e0b717455ad/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3238312f3238313736392e706e67" alt="SumanVastrakar" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/akashk808443/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jay-sanodiya" height="40" width="50" /></a>
+<a href="akashk808443@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/898db73904e0e8df853ab6cb78b06b92295417dfd04cca73c3745e0b717455ad/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3238312f3238313736392e706e67" alt="AkashKumar" height="40" width="50" /></a>
 <!-- <a href="https://instagram.com/jay341sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay341sk" height="40" width="50" /></a>
 <a href="https://medium.com/@jay.sanodiya09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jay.sanodiya09" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/jay_sanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jay_sanodiya" height="40" width="50" /></a> -->
+<a href="https://www.leetcode.com/jay_sanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AkashKumar" height="40" width="50" /></a> -->
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
