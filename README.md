@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://thumbs.gfycat.com/BetterFalseKid-max-1mb.gif)](AkashKumar)
+[![MasterHead](https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)](AkashKumar)
 <div style="display: flex; justify-content: space-around;" >
 <div>
 <h1 align="left">Hi 👋, I'm Akash Kumar</h1>
