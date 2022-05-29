@@ -56,3 +56,8 @@ Here are some ideas to get you started:
      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/392d75476895c9816d8e92b0d92e31fd570beb25bd4d339dd215afc2d90d66c1/68747470733a2f2f6173736574732d676c6f62616c2e776562736974652d66696c65732e636f6d2f3630303966366631303964353165363062393131626135332f3630323332633766656539663237383637346462396332635f396b69622d333534783431352d756e6e616d65642d6d6f6e676f64622d6c6f676f2d73762d31313536323836303732336d67656d706e6d7271332e706e67" alt="spring"width="50" height="50"/> </a> </p>
 
 <br/>
+
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashk808443&show_icons=true&locale=en&layout=compact" alt="akashk808443" /></div>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashk808443&show_icons=true&locale=en" alt="akashk808443" /></div>
+<!-- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysanodiya&" alt="jaysanodiya" /></p> -->
