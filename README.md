@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="left">A passionate Full Stack Web Developer</h3>
 </div>
 <div>
-    <img align="right" alt="Coding" width="700" src="https://thumbs.gfycat.com/BetterFalseKid-max-1mb.gif">
+    <img align="right" alt="Coding" width="300" src="https://thumbs.gfycat.com/BetterFalseKid-max-1mb.gif">
 </div>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkashKumar&label=Profile%20views&color=0e75b6&style=flat" alt="AkashKumar" /> </p>
