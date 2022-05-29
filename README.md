@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b311906466dc735d.gif)](AkashKumar)
+[![MasterHead](https://quantumhunts.com/user/assets/images/hero/hiring-manager-quantumhunts.gif)](AkashKumar)
 <div style="display: flex; justify-content: space-around;" >
 <div>
 <h1 align="left">Hi 👋, I'm Akash Kumar</h1>
