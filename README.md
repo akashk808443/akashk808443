@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <h3 align="left">A passionate Full Stack Web Developer</h3>
 </div>
 <div>
-    <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/706457c438d2031942745299f52de650adf45a3b87de1ded443696b405dd881d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966">
+    <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/BetterFalseKid-max-1mb.gif">
 </div>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AkashKumar&label=Profile%20views&color=0e75b6&style=flat" alt="AkashKumar" /> </p>
 - 🌱 I’m currently learning **React, Redux**
 <!-- 
-- 📝 I regularly write articles on [https://medium.com/@jay.sanodiya09](https://medium.com/@jay.sanodiya09) -->
+- 📝 I regularly write articles on [https://medium.com/@akashk808443](https://medium.com/@akashk808443) -->
 - 📫 How to reach me **akashk808443@gmail.com**
 <!-- - 📄 **Resume** [Click Me](https://docs.google.com/document/d/1AaWVxIsUb6yNsJ4jav0FHR_g3_xp1o3r00I1ehVhEww/edit?usp=sharing) -->
 - ⚡ Fun fact **I think I'm Adventurous.**
@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 <h3 align="left" >Connect with me:</h3>
 <br/>
 <p align="left"; style="display: flex;justify-content: space-evenly;width: 40%;">
-<a href="https://www.linkedin.com/in/akashk808443/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jay-sanodiya" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/akashk808443/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akashk808443" height="40" width="50" /></a>
 <a href="akashk808443@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/898db73904e0e8df853ab6cb78b06b92295417dfd04cca73c3745e0b717455ad/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3238312f3238313736392e706e67" alt="AkashKumar" height="40" width="50" /></a>
-<!-- <a href="https://instagram.com/jay341sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay341sk" height="40" width="50" /></a>
-<a href="https://medium.com/@jay.sanodiya09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jay.sanodiya09" height="40" width="50" /></a>
+<!-- <a href="https://instagram.com/__its__me__dude__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay341sk" height="40" width="50" /></a>
+<a href="https://medium.com/@akashk808443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jay.sanodiya09" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/jay_sanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AkashKumar" height="40" width="50" /></a> -->
 </p>
 <br/>
