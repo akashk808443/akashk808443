@@ -1,5 +1,5 @@
  Hi there 👋
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Tejaswini+Mahale!;Learning+Web+Development...;" style="max-width: 100%;">
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Akash+Kumar!;Learning+Web+Development...;" style="max-width: 100%;">
 <br/>
 I'm a passionate self-learner and Full Stack Web Developer skilled in MERN Stack who focuses 
 on writing clean, elegant and efficient code. Always looking to find patterns of which are 
