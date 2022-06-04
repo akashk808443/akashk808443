@@ -26,19 +26,19 @@ Here are some ideas to get you started:
 <!-- 
 - 📝 I regularly write articles on [https://medium.com/@akashk808443](https://medium.com/@akashk808443) -->
 - 📫 How to reach me **akashk808443@gmail.com**
-<!-- - 📄 **Resume** [Click Me](https://docs.google.com/document/d/1AaWVxIsUb6yNsJ4jav0FHR_g3_xp1o3r00I1ehVhEww/edit?usp=sharing) -->
+- 📄 **Resume** [Click Me](https://docs.google.com/document/d/1AaWVxIsUb6yNsJ4jav0FHR_g3_xp1o3r00I1ehVhEww/edit?usp=sharing)
 - ⚡ Fun fact **I think I'm Adventurous.**
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left" >Connect with me:</h3>
 <br/>
 <p align="left"; style="display: flex;justify-content: space-evenly;width: 40%;">
-<a href="https://www.linkedin.com/in/akashk808443/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akashk808443" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/akashk808443/" target="blank"><img align="center" src="https://raw.githubusercontent.com/akashk808443/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akashk808443" height="40" width="50" /></a>
 <a href="akashk808443@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/898db73904e0e8df853ab6cb78b06b92295417dfd04cca73c3745e0b717455ad/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3238312f3238313736392e706e67" alt="AkashKumar" height="40" width="50" /></a>
-<!-- <a href="https://instagram.com/__its__me__dude__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay341sk" height="40" width="50" /></a>
-<a href="https://medium.com/@akashk808443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jay.sanodiya09" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/jay_sanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AkashKumar" height="40" width="50" /></a> -->
+<a href="https://instagram.com/__its__me__dude__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay341sk" height="40" width="50" /></a>
+<a href="https://medium.com/@akashk808443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akashk808443" height="40" width="50" /></a>
+
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
@@ -60,6 +60,4 @@ Here are some ideas to get you started:
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashk808443&show_icons=true&locale=en&layout=compact" alt="akashk808443" /></div>
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashk808443&show_icons=true&locale=en" alt="akashk808443" /></div>
 </div>
-<!-- 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysanodiya&" alt="jaysanodiya" /></p> -->
