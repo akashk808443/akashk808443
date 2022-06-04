@@ -1,63 +1,79 @@
-<!-- ### Hi there 👋 -->
-<!--
-**akashk808443/akashk808443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![MasterHead](https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)](AkashKumar)
-<div style="display: flex; justify-content: space-around;" >
-<div>
-<h1 align="left">Hi 👋, I'm Akash Kumar</h1>
-<h3 align="left">A passionate Full Stack Web Developer</h3>
-</div>
-<div>
-    <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2w6YvDS6YDRCItFbt7mcr5nPCgeWQkjseiGZ3Y9rz_rXb8QclvL0yf10AQjtco7tpCnU&usqp=CAU">
-</div>
-</div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkashKumar&label=Profile%20views&color=0e75b6&style=flat" alt="AkashKumar" /> </p>
-- 🌱 I’m currently learning **React, Redux**
-<!-- 
-- 📝 I regularly write articles on [https://medium.com/@akashk808443](https://medium.com/@akashk808443) -->
-- 📫 How to reach me **akashk808443@gmail.com**
-- 📄 **Resume** [Click Me](https://docs.google.com/document/d/1AaWVxIsUb6yNsJ4jav0FHR_g3_xp1o3r00I1ehVhEww/edit?usp=sharing)
-- ⚡ Fun fact **I think I'm Adventurous.**
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<h3 align="left" >Connect with me:</h3>
+ Hi there 👋
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Tejaswini+Mahale!;Learning+Web+Development...;" style="max-width: 100%;">
 <br/>
-<p align="left"; style="display: flex;justify-content: space-evenly;width: 40%;">
-<a href="https://www.linkedin.com/in/akashk808443/" target="blank"><img align="center" src="https://raw.githubusercontent.com/akashk808443/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akashk808443" height="40" width="50" /></a>
-<a href="akashk808443@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/898db73904e0e8df853ab6cb78b06b92295417dfd04cca73c3745e0b717455ad/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3238312f3238313736392e706e67" alt="AkashKumar" height="40" width="50" /></a>
-<a href="https://instagram.com/__its__me__dude__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay341sk" height="40" width="50" /></a>
-<a href="https://medium.com/@akashk808443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akashk808443" height="40" width="50" /></a>
-
+I'm a passionate self-learner and Full Stack Web Developer skilled in MERN Stack who focuses 
+on writing clean, elegant and efficient code. Always looking to find patterns of which are 
+helpful in learning Web Development
+<br/>
+ 🙋‍♂️ About Me
+- 🔭  Proficient in **MERN Stack** 
+- 🌱 Proficient in **Data Structures and Algorithms.** 
+- 👯 I’m looking to collaborate with any **Web Devlopment projects.** 
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://my-portfolio-akashk808443.vercel.app//)**<br/>
+- 📫 How to reach me **akashk808443gmail.com**<br/>
+👯 I’m looking to collaborate on ..
+<ul>
+  <li>Open source Projects</li>
+  <li>Full-stack Development</li>
+</ul>
+<br/>
+❤ Views and Followers <br/>
+<a href="https://github.com/akashk808443/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=akashk808443">
+</a>
+<a href="https://github.com/akashk808443?tab=followers"><img src="https://img.shields.io/github/followers/akashk808443?label=Followers&style=social" alt="GitHub Badge"></a>
+<br/>
+Connect with me:
+<br/>
+<p align="left">
+<a href = "https://www.linkedin.com/in/akashk808443"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!-- <a href = "https://www.instagram.com/__its__me__dude__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 </p>
 <br/>
-<h3 align="left">Languages and Tools:</h3>
+ 🚀 Languages and Tools:
+<p align="left"> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    
+</p>
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
-<p align="left"; style="display: flex;justify-content: space-evenly;width: 70%;"> 
-<a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"width="50" height="50"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="linux"width="50" height="50"/> </a>
-   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="mssql"width="50" height="50"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"width="50" height="50"/> </a>
-     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="spring"width="50" height="50"/> </a> </p>
-   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/61c5577620394e8fa6c68fd59533e217cb13d422ff36ff492b41d4a8e4b36bb6/68747470733a2f2f696d616765732e747574652e696f2f747574652f746f7069632f657870726573732d6a732e706e67" alt="mssql"width="50" height="50"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/bbba541fd5eca8a97e88260802b880c42be3c7f480b96978b2401517a7a61bf0/68747470733a2f2f7777772e7468652d6775696c642e6465762f626c6f672d6173736574732f6e6f64656a732d65736d2f6e6f64656a735f6c6f676f2e706e67" alt="nodejs"width="50" height="50"/> </a>
-     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/392d75476895c9816d8e92b0d92e31fd570beb25bd4d339dd215afc2d90d66c1/68747470733a2f2f6173736574732d676c6f62616c2e776562736974652d66696c65732e636f6d2f3630303966366631303964353165363062393131626135332f3630323332633766656539663237383637346462396332635f396b69622d333534783431352d756e6e616d65642d6d6f6e676f64622d6c6f676f2d73762d31313536323836303732336d67656d706e6d7271332e706e67" alt="spring"width="50" height="50"/> </a> </p>
+<p align="center">
+    <a href="https://github.com/akashk808443/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tejaswini Mahale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akashk808443&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+ 📊 My Github Stats
+  <br/>
+    <a href="https://github.com/akashk808443/github-readme-stats"><img alt="Akash Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akashk808443&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/TejaswiniMahale/github-readme-stats"><img alt="Tejaswini Mahale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaswiniMahale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+---
+<br/>
+<br/>
+<a href="https://github.com/akashk808443/github-readme-activity-graph"><img alt="Akash Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akashk808443&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<div>
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashk808443&show_icons=true&locale=en&layout=compact" alt="akashk808443" /></div>
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashk808443&show_icons=true&locale=en" alt="akashk808443" /></div>
-</div>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=akashk808443&theme=monokai&row=1&column=4">
+
+When not coding:<br>
+- Playing Badminton🏸<br>
+- writing Poetries💡<br>
+- Travelling(Historical Places) 🏍️<br>
+<br>
+----
+<code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
 
