@@ -49,13 +49,13 @@ Connect with me:
 <br/>
 <p align="center">
     <a href="https://github.com/akashk808443/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tejaswini Mahale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akashk808443&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akash Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akashk808443&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  📊 My Github Stats
   <br/>
     <a href="https://github.com/akashk808443/github-readme-stats"><img alt="Akash Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akashk808443&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/TejaswiniMahale/github-readme-stats"><img alt="Tejaswini Mahale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaswiniMahale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/akashk808443/github-readme-stats"><img alt="Akash Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashk808443&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 ---
@@ -72,7 +72,7 @@ When not coding:<br>
 - writing Poetries💡<br>
 - Travelling(Historical Places) 🏍️<br>
 <br>
-----
+
 <code>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
 </code>
